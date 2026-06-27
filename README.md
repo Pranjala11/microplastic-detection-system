@@ -254,7 +254,9 @@ microplastic-detection-esp32/
 3. pranjalameshram18@gmail.com
 4. khushalinikhade06@gmail.com
 
-Jhulelal Institute of Technology |
+## Institute
+
+Jhulelal Institute of Technology 
 
 
 
