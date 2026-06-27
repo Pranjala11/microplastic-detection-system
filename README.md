@@ -242,10 +242,17 @@ microplastic-detection-esp32/
 
 ## 👤 Author
 
-Shruti Diware
-Avanti Bhoyar
-Pranjala Meshram
-Khushali Nikhade
+1. Shruti Diware
+2. Avanti Bhoyar
+3. Pranjala Meshram
+4. Khushali Nikhade
+
+## Emails
+
+1. shrutidiware@gmail.com
+2. avantibhoyar321@gmail.com
+3. pranjalameshram18@gmail.com
+4. khushalinikhade06@gmail.com
 
 Jhulelal Institute of Technology |
 
