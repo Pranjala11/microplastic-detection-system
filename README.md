@@ -242,7 +242,7 @@ microplastic-detection-esp32/
 
 ## 👤 Author
 
-1. Shruti Diware
+1. Shruti Diware 
 2. Avanti Bhoyar
 3. Pranjala Meshram
 4. Khushali Nikhade
@@ -256,7 +256,7 @@ microplastic-detection-esp32/
 
 ## Institute
 
-Jhulelal Institute of Technology 
+Jhulelal Institute of Technology
 
 
 
