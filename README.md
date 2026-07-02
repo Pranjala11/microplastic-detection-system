@@ -268,5 +268,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-> *Built as part of an IoT-based environmental monitoring research project.*
-> *For academic and research use.*
+> Built as part of an IoT-based environmental monitoring research project.
+> For academic and research use.
