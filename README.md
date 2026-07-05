@@ -41,7 +41,7 @@ ST_FILL   →  ST_SETTLE  →  ST_SCAN  →  ST_DRAIN  →  ST_IDLE
                          Final Result → ST_DONE (HALT)
 ```
 
-**SCAN phase detail:**
+● SCAN phase detail:
 1. LEDs flash in sequence: Red → Green → Blue → UV → All ON
 2. 16-sample turbidity reading with averaged ADC
 3. Decision tree classification → risk level assigned
