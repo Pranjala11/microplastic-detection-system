@@ -1,6 +1,6 @@
 🔬 AI-Based Microplastic Contamination Risk Assessment System
 
-> An embedded IoT system that detects microplastic contamination risk in water using optical light scattering, turbidity sensing, and a machine learning decision tree classifier — built on the ESP32 platform with real-time OLED display, automated pump control, and multi-level alert output.
+> An embedded IoT system that detects microplastic contamination risk in water using optical light scattering, turbidity sensing, and a machine learning decision tree classifier — built on the ESP32 platform with real-time OLED display, automated pump control, and multi-level alert output. 
 
 ---
 
