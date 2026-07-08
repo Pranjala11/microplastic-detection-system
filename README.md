@@ -125,7 +125,7 @@ Final result screen uses **size-2 text** for the water status (CLEAN / DIRTY) fo
 
 ---
 
-## 📋 Serial Monitor Output (Sample)
+📋 Serial Monitor Output (Sample)
 
 ```
 ==========================================
