@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+📌 Project Overview
 
 Microplastic pollution is one of the most pressing environmental issues of our time, yet conventional detection methods (FTIR spectroscopy, Raman spectroscopy, microscopy) are expensive, slow, and require laboratory infrastructure. This project proposes a **low-cost, real-time, IoT-based alternative** for contamination risk screening in field conditions.
 
