@@ -10,9 +10,7 @@ Microplastic pollution is one of the most pressing environmental issues of our t
 
 The system automates a full water sampling cycle — filling, settling, scanning, and draining — across two complete cycles, then outputs an averaged final contamination risk result via OLED display, coloured LEDs, and a buzzer alert. 
 
----
-
-## 🧠 How the AI Classification Works
+🧠 How the AI Classification Works
 
 The system uses a **Decision Tree classifier** implemented directly in embedded C++ firmware. Turbidity is measured via a 16-sample averaged ADC read (with min/max dropped for noise rejection), then mapped to a 0–1023 risk index and passed through threshold-based classification:
 
