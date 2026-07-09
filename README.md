@@ -26,7 +26,7 @@ Microplastic percentage is estimated using the ESP32's **hardware true-random nu
 
 ---
 
-## ⚙️ System Cycle (State Machine)
+⚙️ System Cycle (State Machine)
 
 The firmware runs a **non-blocking state machine** through the following sequence, repeated for 2 complete cycles before halting with a final averaged result:
 
