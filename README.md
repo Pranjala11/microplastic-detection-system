@@ -48,7 +48,7 @@ ST_FILL   →  ST_SETTLE  →  ST_SCAN  →  ST_DRAIN  →  ST_IDLE
 
 ---
 
-## 🔌 Hardware Components
+🔌 Hardware Components
 
 | Component             | Role                                      |
 |-----------------------|-------------------------------------------|
