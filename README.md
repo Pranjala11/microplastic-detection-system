@@ -97,7 +97,7 @@ GPIO 22      →  OLED SCL
 
 ---
 
-## 🔊 Buzzer Alert Behaviour
+🔊 Buzzer Alert Behaviour
 
 | Water Status | Alert                                     |
 |--------------|-------------------------------------------|
@@ -106,7 +106,7 @@ GPIO 22      →  OLED SCL
 
 ---
 
-## 📟 OLED Output (Per Cycle)
+📟 OLED Output (Per Cycle)
 
 ```
 ┌────────────────────────┐
@@ -146,7 +146,7 @@ Final result screen uses **size-2 text** for the water status (CLEAN / DIRTY) fo
 
 ---
 
-## 🛠️ Software & Tools
+🛠️ Software & Tools
 
 - **Language:** C++ (Arduino framework for ESP32)
 - **IDE:** Arduino IDE
@@ -158,7 +158,7 @@ Final result screen uses **size-2 text** for the water status (CLEAN / DIRTY) fo
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
 
 ### Prerequisites
 - Arduino IDE with ESP32 board support installed
