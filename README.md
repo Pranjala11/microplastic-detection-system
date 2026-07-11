@@ -24,7 +24,6 @@ The system uses a **Decision Tree classifier** implemented directly in embedded 
 
 Microplastic percentage is estimated using the ESP32's **hardware true-random number generator** (`esp_random()`), seeded within the appropriate range for each contamination category.
 
----
 
 ⚙️ System Cycle (State Machine)
 
@@ -65,7 +64,7 @@ ST_FILL   →  ST_SETTLE  →  ST_SCAN  →  ST_DRAIN  →  ST_IDLE
 
 ---
 
-## 🗺️ Wiring Reference
+🗺️ Wiring Reference
 
 ```
 ESP32 GPIO   →  Component
