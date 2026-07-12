@@ -86,7 +86,7 @@ GPIO 22      →  OLED SCL
 
 ---
 
-## 💡 LED Alert Behaviour
+💡 LED Alert Behaviour
 
 | Risk Level     | LED Output                              |
 |----------------|-----------------------------------------|
