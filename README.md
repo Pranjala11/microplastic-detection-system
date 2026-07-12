@@ -184,7 +184,7 @@ Adjust these constants in the code to match your turbidity sensor's actual ADC r
 
 ---
 
-## 📊 Optical Detection Principle
+📊 Optical Detection Principle
 
 The system uses multi-angle optical scattering detection:
 
