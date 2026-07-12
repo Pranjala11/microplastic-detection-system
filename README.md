@@ -200,7 +200,7 @@ RGB and UV LEDs illuminate the water sample from multiple angles. When microplas
 
 ---
 
-## ⚠️ Limitations
+⚠️ Limitations
 
 - The system estimates **contamination risk**, not exact microplastic concentration
 - Optical readings can be influenced by non-plastic suspended particles (silt, algae)
