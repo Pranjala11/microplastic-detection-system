@@ -236,7 +236,7 @@ microplastic-detection-esp32/
 
 ---
 
-## 👤 Author
+👤 Author
 
 1. Shruti Diware 
 2. Avanti Bhoyar
