@@ -218,9 +218,8 @@ RGB and UV LEDs illuminate the water sample from multiple angles. When microplas
 - Multi-sensor fusion (pH, dissolved oxygen, conductivity)
 - Laboratory cross-validation dataset
 
----
 
-## 📁 Repository Structure
+📁 Repository Structure
 
 ```
 microplastic-detection-esp32/
