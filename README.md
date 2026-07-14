@@ -8,7 +8,7 @@
 
 Microplastic pollution is one of the most pressing environmental issues of our time, yet conventional detection methods (FTIR spectroscopy, Raman spectroscopy, microscopy) are expensive, slow, and require laboratory infrastructure. This project proposes a **low-cost, real-time, IoT-based alternative** for contamination risk screening in field conditions.
 
-The system automates a full water sampling cycle — filling, settling, scanning, and draining — across two complete cycles, then outputs an averaged final contamination risk result via OLED display, coloured LEDs, and a buzzer alert. 
+The system automates a full water sampling cycle — filling, settling, scanning, and draining — across two complete cycles, then outputs an averaged final contamination risk result via OLED display, coloured LEDs, and a buzzer alert.  
 
 🧠 How the AI Classification Works
 
