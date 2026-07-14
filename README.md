@@ -209,7 +209,7 @@ RGB and UV LEDs illuminate the water sample from multiple angles. When microplas
 
 ---
 
-## 🔭 Future Work
+🔭 Future Work
 
 - Camera-based image analysis for particle shape classification
 - Deep learning model replacing the decision tree
