@@ -186,7 +186,7 @@ Adjust these constants in the code to match your turbidity sensor's actual ADC r
 
 📊 Optical Detection Principle
 
-The system uses multi-angle optical scattering detection:
+The system uses multi-angle optical scattering detection :
 
 ```
 LED Source → Water Sample → Turbidity Sensor
