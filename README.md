@@ -12,7 +12,7 @@ The system automates a full water sampling cycle — filling, settling, scanning
 
 🧠 How the AI Classification Works
 
-The system uses a **Decision Tree classifier** implemented directly in embedded C++ firmware. Turbidity is measured via a 16-sample averaged ADC read (with min/max dropped for noise rejection), then mapped to a 0–1023 risk index and passed through threshold-based classification:
+The system uses a **Decision Tree classifier** implemented directly in embedded C++ firmware. Turbidity is measured via a 16-sample averaged ADC read (with min/max dropped for noise rejection), then mapped to a 0–1023 risk index and passed through threshold-based classification.
 
 | Turbidity Index | Risk Level     | Water Status | Microplastic % Estimate |
 |-----------------|----------------|--------------|--------------------------|
